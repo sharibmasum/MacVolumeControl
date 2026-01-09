@@ -14,7 +14,6 @@ Runs in real time with visual feedback (FPS, volume level, hold state)
 ## Clone the repository
 
 git clone https://github.com/sharibmasum/MacVolumeControl.git  
-cd hand-volume-control
 
 ## Install dependencies
 
